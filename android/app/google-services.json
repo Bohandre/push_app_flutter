@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1038938701899",
+    "project_id": "flutter-projects-notifications",
+    "storage_bucket": "flutter-projects-notifications.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1038938701899:android:84ef7577f7792ec23bcdce",
+        "android_client_info": {
+          "package_name": "com.bohandre.push_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1038938701899-jdhihrrudedvb1a6n6h87c0j0uj6s6jn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuEK0j8wC6mnKBmDogfsT_LnS4NpjANQk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1038938701899-jdhihrrudedvb1a6n6h87c0j0uj6s6jn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
